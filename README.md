@@ -1,6 +1,5 @@
 # Dark-Venom
 ## Venom-Py-Assist
-```
 <p><b>Venom Deep Check</b> is a python script which will help beginner as well as intermediate python programers and aspirants to learn python from scratch.</p>
 <p>The tool has many features related to python programming like -:<p>
 <ul>
@@ -10,20 +9,16 @@
   <li> Will save your time of checking large number of sites for working and Non working links 🌟 </li>
   <li> Provides a titled information about the link 👨‍🚒 </li>
 </ul>
-```
 <br>
 <hr>
 <br>
-```sh
-<h1> <b> About the Author: Gaurav Chaudhary (Venom) </b></h1>
+### About
 ```
-<br>
-```
-<ul>
-<li>Join our forum: <a href="https://venomgrills.com"> Venomgrills </a><br></li>
-<li>Follow me on insta: <a href='https://instagram.com/i.m.gauravchaudhary'> i.m.gauravchaudhary </a><br></li>
-<li>Follow me on facebook: <a href='https://facebook.com/venomgrills'> Gaurav Chaudhary </a><br></li>
-<li>Follow me on Twitter: <a href='https://twitter.com/venomgrills'> Venomgrills </a><br></li>
+About the Author: Gaurav Chaudhary (Venom)
+Join our forum: <a href="https://venomgrills.com"> Venomgrills </a>
+Follow me on insta: <a href='https://instagram.com/i.m.gauravchaudhary'> i.m.gauravchaudhary </a>
+Follow me on facebook: <a href='https://facebook.com/venomgrills'> Gaurav Chaudhary </a>
+Follow me on Twitter: <a href='https://twitter.com/venomgrills'> Venomgrills </a>
 </ul>
 ```
 <br>
