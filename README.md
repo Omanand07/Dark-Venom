@@ -1,7 +1,7 @@
 # Dark-Venom
 # Venom-Py-Assist
 <br>
-```
+```sh
 <p><b>Venom Deep Check</b> is a python script which will help beginner as well as intermediate python programers and aspirants to learn python from scratch.</p>
 <p>The tool has many features related to python programming like -:<p>
 <ul>
@@ -15,7 +15,7 @@
 <br>
 <hr>
 <br>
-```
+```sh
 <h1> <b> About the Author: Gaurav Chaudhary (Venom) </b></h1>
 ```
 <br>
