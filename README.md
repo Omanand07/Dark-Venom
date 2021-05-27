@@ -15,6 +15,7 @@
 <h1> <b> About the Author: Gaurav Chaudhary (Venom) </b></h1>
 <br>
 <ul>
+  <li>Join me on my forum: <a href="https://venomgrills.com"> Venomgrills </a><br></li>
 <li>Follow me on insta: <a href='https://instagram.com/i.m.gauravchaudhary'> i.m.gauravchaudhary </a><br></li>
 <li>Follow me on facebook: <a href='https://facebook.com/venomgrills'> Gaurav Chaudhary </a><br></li>
 <li>Follow me on Twitter: <a href='https://twitter.com/venomgrills'> Venomgrills </a><br></li>
